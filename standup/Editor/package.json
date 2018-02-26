@@ -2,7 +2,7 @@
   "name": "Editor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wotres.github.io/standup/day01",
+  "homepage": "https://wotres.github.io/standup/Editor/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
